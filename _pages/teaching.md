@@ -32,30 +32,30 @@ My contribution to this module is the coordinator of Track 6, which groups stude
 ## University of Groningen <br>
 As a lecturer at the University of Groningen (2019-2021), I was responsible of the following courses,
 
-### Image Processing <br>
+### MSc course - Image Processing <br>
 ∼30 STUDENTS AY 2020/2021 <br>
 The course provides insight in the basic concepts of digital image processing, from image acquisition, digitisation, and pre-processing to image enhancement, compression, restoration, segmentation, and description.
 
-### Introduction to Scientific Computing <br>
+### BSc course - Introduction to Scientific Computing <br>
 ∼130 STUDENTS AYs 2019/2020 and 2020/2021 <br>
 This course focuses on scientific problem solving on topic in the context of several real-world applications. The topics I cover are sequence alignment (string algorithms), cellular automata, fractals, tomographic reconstruction, ordinary and partial differential equations.
 
-### Introduction to Machine Learning <br>
+### BSc course - Introduction to Machine Learning <br>
 ∼80 STUDENTS AY 2020/2021 <br>
 This course was given together with Prof. Michael Biehl. It was divided in two parts, supervised and unsupervised learning. I focused on the unsupervised part and taught dimensionality reduction, clustering, and outlier detection.
 
-### Introduction to Intelligent Systems <br>
+### BSc course - Introduction to Intelligent Systems <br>
 ∼90 STUDENTS AY 2020/2021 <br>
 This course was given together with Prof. Michael Biehl. I covered the introduction of concepts such as pattern recognition, Bayes theorem, image processing with edge detection and decision trees.
 
-### Introduction to Computer Science <br>
+### BSc course - Introduction to Computer Science <br>
 TUTOR/MENTOR ∼25 STUDENTS AYs 2019/2020 and 2020/2021 <br>
 The tutorials for first-year CS students are aimed at acquiring knowledge, practising skills, and deepening awareness of societal, intercultural, and ethical issues involved in computer science.
 
-### Algorithms and Data Structures in C <br>
+### BSc course - Algorithms and Data Structures in C <br>
 ∼230 STUDENTS AY 2019/2020 <br>
 First year course that covers data structures, trees, and graphs in C.
 
-### Software Engineering <br>
+### BSc course - Software Engineering <br>
 ∼90 STUDENTS AY 2018/2019 <br>
 Project-based course where students work in teams to implement a software demanded by a real customer. Students gain knowledge of the different phases of the software engineering lifecycle through Scrum, Agile and teamwork.
