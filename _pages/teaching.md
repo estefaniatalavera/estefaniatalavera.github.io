@@ -7,7 +7,7 @@ date: 2021-07-20
 ---
 
 ## University of Twente <br>
-As an Assistant Professor in the DMB group I am involved in the following courses:
+As an Assistant Professor in the DMB group, I am involved in the following courses:
 
 ### MSc course - Advanced Computer Vision and Pattern Recognition <br>
 ∼60 STUDENTS AYs 2021/2022 2022/2023 <br>
@@ -30,7 +30,7 @@ My contribution to this module is a set of lectures under the theme Introduction
 My contribution to this module is the coordinator of Track 6, which groups students who work on data science related projects. These projects are proposed by staff members from the DMB group. The tasks related to this project is guidance through the project definition process, weekly meetings, support for the preparation of the final presentation and chairing of the track in the main conference organised at the end of the module.
 
 ## University of Groningen <br>
-As a lecturer at the University of Groningen (2019-2021) I was responsible of the following courses,
+As a lecturer at the University of Groningen (2019-2021), I was responsible of the following courses,
 
 ### Image Processing <br>
 ∼30 STUDENTS AY 2020/2021 <br>
