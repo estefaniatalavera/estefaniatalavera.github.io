@@ -13,8 +13,7 @@ You can find video presentations of our work at the following <u><a href="https:
 
 * J. Omara, E. Talavera, D. Otim, D. Turcza, E. Ofumbi, G. Owomugisha, “A field-based recommender system for crop disease detection using machine learning”, Frontiers in Artificial Intelligence, vol. 6, 2023.  <u><a href="https://www.frontiersin.org/articles/10.3389/frai.2023.1010804" target="_blank"> Paper </a></u>
 * W. de Lima Costa, E. Talavera, L.S. Figueiredo, V. Teichrieb, “High-level context representation for emotion recognition in images”, Proceedings of the IEEE/CVF International Conference on Computer Vision, Workshop LatinX in AI, 2023
-* W. de Lima Costa, E. Talavera, R. Oliveira, L. S. Figueiredo, J. Teixeira, J. Lima, V. Teichrieb, “A survey on datasets for emotion recognition from vision: limitations and in-the-wild applicability”, Applied Sciences, 2023.
-
+* W. de Lima Costa, E. Talavera, R. Oliveira, L. S. Figueiredo, J. Teixeira, J. Lima, V. Teichrieb, “A survey on datasets for emotion recognition from vision: limitations and in-the-wild applicability”, Applied Sciences, 2023.  <u><a href="https://www.mdpi.com/2076-3417/13/9/5697" target="_blank">Paper</a></u>
 
 ### 2022 ###
 * J. Barkai, M. Verheijen, E. Talavera, M. Wilkinson, “A comparative study of source finding techniques in HI emission line cubes using SoFiA, MTObjects and supervised deep learning”, Astronomy & Astrophysics, 2022 <u><a href="https://www.aanda.org/component/article?access=doi&doi=10.1051/0004-6361/202244708" target="_blank">Paper,</a></u> <u><a href="https://github.com/Jbarkai/HISourceFinder" target="_blank">GitHub,</a></u> <u><a href="https://youtu.be/aQbE-UhBOlQ" target="_blank">Video</a></u>
