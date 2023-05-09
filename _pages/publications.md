@@ -12,7 +12,7 @@ You can find video presentations of our work at the following <u><a href="https:
 ### 2023 ###
 
 * J. Omara, E. Talavera, D. Otim, D. Turcza, E. Ofumbi, G. Owomugisha, “A field-based recommender system for crop disease detection using machine learning”, Frontiers in Artificial Intelligence, vol. 6, 2023.  <u><a href="https://www.frontiersin.org/articles/10.3389/frai.2023.1010804" target="_blank"> Paper </a></u>
-* W. de Lima Costa, E. Talavera, L.S. Figueiredo, V. Teichrieb, “High-level context representation for emotion recognition in images”, Proceedings of the IEEE/CVF International Conference on Computer Vision, Workshop LatinX in AI, 2023
+* W. de Lima Costa, E. Talavera, L.S. Figueiredo, V. Teichrieb, “High-level context representation for emotion recognition in images”, Proceedings of the IEEE/CVF International Conference on Computer Vision, Workshop LatinX in AI, 2023. <u><a href="https://arxiv.org/pdf/2305.03500.pdf" target="_blank">Paper</a></u>
 * W. de Lima Costa, E. Talavera, R. Oliveira, L. S. Figueiredo, J. Teixeira, J. Lima, V. Teichrieb, “A survey on datasets for emotion recognition from vision: limitations and in-the-wild applicability”, Applied Sciences, 2023.  <u><a href="https://www.mdpi.com/2076-3417/13/9/5697" target="_blank">Paper</a></u>
 
 ### 2022 ###
