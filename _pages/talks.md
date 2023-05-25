@@ -6,14 +6,22 @@ author_profile: true
 date: 2021-07-20
 ---
 
+### Invited Talk at the University of Busitema, Uganda 
+Mach 2023 <br>
+Onsite talk <a href="[https://twitter.com/BUAIIR/status/1638525687752536064?s=20">Tweet</a> <br>
+
+### Invited Talk at the Norwegian University of Science and Technology (NTNU), Norway 
+Invited Featured Talk at the Norwegian Biometric Laboratory retreat <br>
+Mach 2023 <br>
+Onsite talk <br>
+
 ### Invited Talk at the Universidad de León, Spain
 Oct 2022 <br> 
 Onsite Talk <br>
 
 ### Invited talk at Instituto Cervantes, Utrecht, Netherlands
 Sept 2022 <br> 
-I was invited to give a talk about me and my research work in the session _Nosotras también hacemos ciencia_, "We also do science" by the association of Spanish researchers in the Netherlands (CENL). <a href="https://twitter.com/eTalaveraM/status/1573695776383012866?s=20&t=dAFbPB59r9snPMSXMrHWcQ">Pictures</a> <br>
-
+I was invited to give a talk about me and my research work in the session _Nosotras también hacemos ciencia_, "We also do science" by the association of Spanish researchers in the Netherlands (CENL). <a href="https://twitter.com/eTalaveraM/status/1573695776383012866?s=20&t=dAFbPB59r9snPMSXMrHWcQ">Tweet</a> <br>
 
 ### Invited Talk at Voxar Labs, Universidad Federal de Pernambuco, Brasil
 Sept 2022 <br> 
