@@ -5,6 +5,14 @@ permalink: /news/
 author_profile: true
 ---
 
+## Visited Busitema and Makerere Univeersitys throughout our Erasmus+ 171 funding.
+Related tweets <a href="https://twitter.com/BUAIIR/status/1638525687752536064?s=20"> \#1, </a>
+<a href="https://twitter.com/eTalaveraM/status/1640678442768162816?s=20"> \#2, </a>
+<a href="https://twitter.com/eTalaveraM/status/1640677780563042304?s=20"> \#3 . </a>
+
+## Funding granted! Research funding within the ERJU (European Joint Rail Undertaking) project.
+The project and grant are shared with Luuk Spreeuwers and Nicola Strisciuglio in the DMB group. The goal is to develop frameworks for intelligent video gates to control and monitor the maintenance of trains and tracks along the European rail network.<br> 
+<a href="https://twitter.com/NicStrisc/status/1643622698050805760?s=20">Tweet - Hiring of a 1 PhD position page</a>
 
 ### I was program co-chair of the workshop  “LatinX in CV” at the ECCV. 
 Oct 2022<br>
