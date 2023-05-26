@@ -5,7 +5,7 @@ permalink: /news/
 author_profile: true
 ---
 
-## Visited Busitema and Makerere Univeersitys throughout our Erasmus+ 171 funding.
+## I visited Busitema and Makerere Universities through our Erasmus+ 171 funding. 
 Related tweets <a href="https://twitter.com/BUAIIR/status/1638525687752536064?s=20"> \#1, </a>
 <a href="https://twitter.com/eTalaveraM/status/1640678442768162816?s=20"> \#2, </a>
 <a href="https://twitter.com/eTalaveraM/status/1640677780563042304?s=20"> \#3 . </a>
