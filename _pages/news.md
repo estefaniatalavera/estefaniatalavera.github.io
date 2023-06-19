@@ -10,7 +10,7 @@ My PhD student  <a href="https://wlcosta.github.io/">Willams de Lima Costa</a> p
 Related tweets <a href="https://twitter.com/eTalaveraM/status/1670170474356129794?s=20"> \#1, </a>
 <a href="https://twitter.com/eTalaveraM/status/1670656921878282240?s=20"> \#2, </a>
 <a href="https://twitter.com/Beto_OchoaRuiz/status/1670595499643252736?s=20"> \#3, </a>
-<a href="https://twitter.com/_LXAI/status/1670536537761562624?s=20"> \#4. </a>
+<a href="https://twitter.com/_LXAI/status/1670536537761562624?s=20"> \#4. </a> <br> 
 Vancouver <br> 
 June 18-22, 2023 <br> 
 
