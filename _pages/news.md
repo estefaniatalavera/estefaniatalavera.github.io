@@ -6,14 +6,11 @@ author_profile: true
 ---
 ### Our workshop <a href="https://www.latinxinai.org/cvpr-2023">LatinX in CV (LXCV) Research at CVPR</a> was a success. <br> 
 We had 10 full papers accepted, 22 extended abstracts and more than 60 attendees. <br> 
-
 My PhD student  <a href="https://wlcosta.github.io/">Willams de Lima Costa</a> presented our work <a href="https://openaccess.thecvf.com/content/CVPR2023W/LatinX/papers/de_Lima_Costa_High-Level_Context_Representation_for_Emotion_Recognition_in_Images_CVPRW_2023_paper.pdf">"High-level context representations for emotion recognition in images”</a>. <br> 
-
 Related tweets <a href="https://twitter.com/eTalaveraM/status/1670170474356129794?s=20"> \#1, </a>
 <a href="https://twitter.com/eTalaveraM/status/1670656921878282240?s=20"> \#2, </a>
 <a href="https://twitter.com/Beto_OchoaRuiz/status/1670595499643252736?s=20"> \#3, </a>
 <a href="https://twitter.com/_LXAI/status/1670536537761562624?s=20"> \#4. </a>
-
 Vancouver <br> 
 June 18-22, 2023 <br> 
 
