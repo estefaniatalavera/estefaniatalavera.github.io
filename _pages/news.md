@@ -4,13 +4,25 @@ title: "News"
 permalink: /news/
 author_profile: true
 ---
+### Our workshop <a href="https://www.latinxinai.org/cvpr-2023">LatinX in CV (LXCV) Research at CVPR</a> was a success. <br> 
+We had 10 full papers accepted, 22 extended abstracts and more than 60 attendees. <br> 
 
-## I visited Busitema and Makerere Universities through our Erasmus+ 171 funding. 
+My PhD student  <a href="https://wlcosta.github.io/">Willams de Lima Costa</a> presented our work "High-level context representations for emotion recognition in images”. <br> 
+
+Related tweets <a href="https://twitter.com/eTalaveraM/status/1670170474356129794?s=20> \#1, </a>
+<a href="https://twitter.com/eTalaveraM/status/1670656921878282240?s=20"> \#2, </a>
+<a href="https://twitter.com/Beto_OchoaRuiz/status/1670595499643252736?s=20"> \#3, </a>
+<a href="https://twitter.com/_LXAI/status/1670536537761562624?s=20"> \#4. </a>
+
+Vancouver <br> 
+June 18-22, 2023 <br> 
+
+### I visited Busitema and Makerere Universities through our Erasmus+ 171 funding. 
 Related tweets <a href="https://twitter.com/BUAIIR/status/1638525687752536064?s=20"> \#1, </a>
 <a href="https://twitter.com/eTalaveraM/status/1640678442768162816?s=20"> \#2, </a>
 <a href="https://twitter.com/eTalaveraM/status/1640677780563042304?s=20"> \#3 . </a>
 
-## Funding granted! Research funding within the ERJU (European Joint Rail Undertaking) project.
+### Funding granted! Research funding within the ERJU (European Joint Rail Undertaking) project.
 The project and grant are shared with Luuk Spreeuwers and Nicola Strisciuglio in the DMB group. The goal is to develop frameworks for intelligent video gates to control and monitor the maintenance of trains and tracks along the European rail network.<br> 
 <a href="https://twitter.com/NicStrisc/status/1643622698050805760?s=20">Tweet - Hiring of a 1 PhD position page</a>
 
