@@ -11,6 +11,8 @@ You can find video presentations of our work at the following <u><a href="https:
 
 ### 2023 ###
 
+* X. Wang, N. Risi, E. Talavera, E. Chicca, and G. Azzopardi. “Fall detection with event-based data: A case study." In 20th International Conference on Computer Analysis of Images and Patterns: CAIP2023. Springer, 2023.
+* X. Wang, E. Talavera, D. Karastoyanova, and G. Azzopardi. “Fall detection with a non-intrusive and first-person vision approach." IEEE Sensors Journal, 2023. <u><a href="https://ieeexplore.ieee.org/document/10255614" target="_blank"> Paper </a></u>
 * J. Omara, E. Talavera, D. Otim, D. Turcza, E. Ofumbi, G. Owomugisha, “A field-based recommender system for crop disease detection using machine learning”, Frontiers in Artificial Intelligence, vol. 6, 2023.  <u><a href="https://www.frontiersin.org/articles/10.3389/frai.2023.1010804" target="_blank"> Paper </a></u>
 * W. de Lima Costa, E. Talavera, L.S. Figueiredo, V. Teichrieb, “High-level context representation for emotion recognition in images”, Proceedings of the IEEE/CVF International Conference on Computer Vision, Workshop LatinX in AI, 2023. <u><a href="https://arxiv.org/pdf/2305.03500.pdf" target="_blank">Paper</a></u>
 * W. de Lima Costa, E. Talavera, R. Oliveira, L. S. Figueiredo, J. Teixeira, J. Lima, V. Teichrieb, “A survey on datasets for emotion recognition from vision: limitations and in-the-wild applicability”, Applied Sciences, 2023.  <u><a href="https://www.mdpi.com/2076-3417/13/9/5697" target="_blank">Paper</a></u>
