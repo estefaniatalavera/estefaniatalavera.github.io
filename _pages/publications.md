@@ -11,6 +11,7 @@ You can find video presentations of our work at the following <u><a href="https:
 
 ### 2023 ###
 
+* M. Menchon, E. Talavera, J. M Massa, P. Radeva, “Behavioural patterns discovery for lifestyle analysis from egocentric photo-streams”, Pervasive and Mobile Computing, 2023. <u><a href="https://ieeexplore.ieee.org/document/10255614" target="_blank"> Paper </a></u>
 * X. Wang, N. Risi, E. Talavera, E. Chicca, and G. Azzopardi. “Fall detection with event-based data: A case study." In 20th International Conference on Computer Analysis of Images and Patterns: CAIP2023. Springer, 2023.
 * X. Wang, E. Talavera, D. Karastoyanova, and G. Azzopardi. “Fall detection with a non-intrusive and first-person vision approach." IEEE Sensors Journal, 2023. <u><a href="https://ieeexplore.ieee.org/document/10255614" target="_blank"> Paper </a></u>
 * J. Omara, E. Talavera, D. Otim, D. Turcza, E. Ofumbi, G. Owomugisha, “A field-based recommender system for crop disease detection using machine learning”, Frontiers in Artificial Intelligence, vol. 6, 2023.  <u><a href="https://www.frontiersin.org/articles/10.3389/frai.2023.1010804" target="_blank"> Paper </a></u>
