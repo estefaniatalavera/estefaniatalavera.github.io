@@ -12,7 +12,7 @@ date: 2021-07-20
 * Convolutional neural networks and deep learning
 * Pattern recognition
 * Autonomous health monitoring systems
-* Video and/or audio analysis
+* Video understanding
 
 Wanting to collaborate? <br>
 You can always reach me at e(dot)talaveramartinez(at)utwente(dot)nl <br>
