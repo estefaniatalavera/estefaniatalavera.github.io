@@ -8,6 +8,11 @@ author_profile: true
 ### ExploreCSR Google award.
 Together with Nils Murrugarra-llerena (Weber State University) and Gilberto Ochoa (Tecnologico de Monterrey), we received a Google award. Our project “LATAM Undergraduate Research Program” aims to build research skills among Latin-American students in computer vision. <a href="https://estefaniatalavera.github.io/lxcv.explorecsr.github.io">Link to the project website.</a>
 
+###  I was invited to the International Summer School organised by the Universidad Panamericana
+During the summer school, I gave a two weeks course on ML and CV to undergraduate students. <br>
+July 2023 <br>
+Mexico,  <a href=“https://x.com/eTalaveraM/status/1678894696536371200?s=20">Info</a> <br>
+
 ### Our workshop <a href="https://www.latinxinai.org/cvpr-2023">LatinX in CV (LXCV) Research at CVPR</a> was a success. <br> 
 We had 10 full papers accepted, 22 extended abstracts and more than 60 attendees. <br> 
 My PhD student  <a href="https://wlcosta.github.io/">Willams de Lima Costa</a> presented our work <a href="https://openaccess.thecvf.com/content/CVPR2023W/LatinX/papers/de_Lima_Costa_High-Level_Context_Representation_for_Emotion_Recognition_in_Images_CVPRW_2023_paper.pdf">"High-level context representations for emotion recognition in images”</a>. <br> 
