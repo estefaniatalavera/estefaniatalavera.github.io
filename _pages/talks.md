@@ -6,7 +6,7 @@ author_profile: true
 date: 2021-07-20
 ---
 
-### Invited Talk at the Tecnologico de Monterry, Mexico 
+### Invited Talk at the Tecnologico de Monterrey, Mexico 
 November 2023 <br>
 Online talk, <a href="https://x.com/Beto_OchoaRuiz/status/1720501392459055530?s=20">Info</a> <br>
 
