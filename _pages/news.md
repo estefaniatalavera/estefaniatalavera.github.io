@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 ### ExploreCSR Google award.
-Together with Nils Murrugarra-llerena (Weber State University) and Gilberto Ochoa (Tecnologico de Monterrey), we received a Google award. Our project “LATAM Undergraduate Research Program” aims to build research skills among Latin-American students in computer vision. <a href="[https://wlcosta.github.io/](https://estefaniatalavera.github.io/lxcv.explorecsr.github.io)">Link to the project website.</a>
+Together with Nils Murrugarra-llerena (Weber State University) and Gilberto Ochoa (Tecnologico de Monterrey), we received a Google award. Our project “LATAM Undergraduate Research Program” aims to build research skills among Latin-American students in computer vision. <a href="https://estefaniatalavera.github.io/lxcv.explorecsr.github.io">Link to the project website.</a>
 
 ### Our workshop <a href="https://www.latinxinai.org/cvpr-2023">LatinX in CV (LXCV) Research at CVPR</a> was a success. <br> 
 We had 10 full papers accepted, 22 extended abstracts and more than 60 attendees. <br> 
