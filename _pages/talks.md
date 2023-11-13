@@ -6,13 +6,17 @@ author_profile: true
 date: 2021-07-20
 ---
 
+### Invited Talk at the Tecnologico de Monterry, Mexico 
+November 2023 <br>
+Online talk, <a href="https://x.com/Beto_OchoaRuiz/status/1720501392459055530?s=20">Info</a> <br>
+
 ### Invited Talk at the University of Busitema, Uganda 
-Mach 2023 <br>
-Onsite talk <a href="[https://twitter.com/BUAIIR/status/1638525687752536064?s=20">Tweet</a> <br>
+March 2023 <br>
+Onsite talk <a href="https://twitter.com/BUAIIR/status/1638525687752536064?s=20">Tweet</a> <br>
 
 ### Invited Talk at the Norwegian University of Science and Technology (NTNU), Norway 
 Invited Featured Talk at the Norwegian Biometric Laboratory retreat <br>
-Mach 2023 <br>
+March 2023 <br>
 Onsite talk <br>
 
 ### Invited Talk at the Universidad de León, Spain
