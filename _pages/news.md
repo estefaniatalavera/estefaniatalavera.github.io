@@ -11,7 +11,7 @@ Together with Nils Murrugarra-llerena (Weber State University) and Gilberto Ocho
 ###  I was invited to the International Summer School organised by the Universidad Panamericana
 During the summer school, I gave a two weeks course on ML and CV to undergraduate students. <br>
 July 2023 <br>
-Mexico, <a href=“https://x.com/eTalaveraM/status/1678894696536371200?s=20">Info</a> <br>
+Mexico, <a href="https://x.com/eTalaveraM/status/1678894696536371200?s=20">Info</a> <br>
 
 ### Our workshop <a href="https://www.latinxinai.org/cvpr-2023">LatinX in CV (LXCV) Research at CVPR</a> was a success. <br> 
 We had 10 full papers accepted, 22 extended abstracts and more than 60 attendees. <br> 
