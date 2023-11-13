@@ -10,6 +10,10 @@ date: 2021-07-20
 November 2023 <br>
 Online talk, <a href="https://x.com/Beto_OchoaRuiz/status/1720501392459055530?s=20">Info</a> <br>
 
+### Tutorial on “Multimodal learning for video analysis” at the International Conference CAIP 
+November 2023 <br>
+Cyprus, <a href="https://cyprusconferences.org/caip2023/tutorials/">Info</a> <br>
+
 ### Invited Talk at the University of Busitema, Uganda 
 March 2023 <br>
 Onsite talk <a href="https://twitter.com/BUAIIR/status/1638525687752536064?s=20">Tweet</a> <br>
