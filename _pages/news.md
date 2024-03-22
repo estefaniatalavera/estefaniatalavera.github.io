@@ -4,6 +4,9 @@ title: "News"
 permalink: /news/
 author_profile: true
 ---
+### I am joining the organisation of the Women in Computer Vision (WiCV) workshop at CVPR 2024.
+I will be co-chair of WiCV. I look forward to supporting this community! <br>
+More information in the <a href="https://estefaniatalavera.github.io/lxcv.explorecsr.github.io">workshop website.</a> <br>
 
 ### ExploreCSR Google award.
 Together with Nils Murrugarra-llerena (Weber State University) and Gilberto Ochoa (Tecnologico de Monterrey), we received a Google award. Our project “LATAM Undergraduate Research Program” aims to build research skills among Latin-American students in computer vision. <a href="https://estefaniatalavera.github.io/lxcv.explorecsr.github.io">Link to the project website.</a>
