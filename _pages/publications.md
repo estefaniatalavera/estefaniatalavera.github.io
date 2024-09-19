@@ -6,8 +6,6 @@ author_profile: true
 date: 2021-07-20
 ---
 
-You can find video presentations of our work at the following <u><a href="https://www.youtube.com/channel/UC3F55YP8PZWUOxs3vm1_amw">YouTube channel</a></u>.<br>
-
 ### 2024 ###
 
 * A. van Engelenhoven, N. Strisciuglio and E. Talavera, "CAST: Clustering Self-Attention using Surrogate Tokens for Efficient Transformers", Pattern Recognition Letters, 2024  <u><a href="https://www.sciencedirect.com/science/article/pii/S0167865524002563"> Paper </a></u>
@@ -72,3 +70,6 @@ Streams Segmentation”, International Journal Computer Vision and Image Underst
 * E. Talavera, P. Radeva, N. Petkov, “Towards Unsupervised Familiar Scene Recognition in Egocentric Videos,” In 8th GI Conference on Autonomous Systems, pp. 80-91, published in proceedings as Chapter VDI Verlag, 2015.
 * M. Bolaños, R. Mestre, E. Talavera, X. Giro-i-Nieto, P. Radeva, “Visual Summary of Egocentric Photostreams by Representative Keyframes”, In International Workshop on Wearable and Ego-vision Systems for Augmented Experience (WEsAX), pp. 1-6, published in the proceedings, 2015.
 * E. Talavera, M. Dimiccoli, M. Bolaños, M. Aghaei, P. Radeva, “R-Clustering for Egocentric Video Segmentation,” 7th Iberian Conference on Pattern Recognition and Image Analysis (IBPRIA), pp. 327-336, Chapter Springer Verlag, 2015.
+
+You can find video presentations of our work at the following <u><a href="https://www.youtube.com/channel/UC3F55YP8PZWUOxs3vm1_amw">YouTube channel</a></u>.<br>
+
