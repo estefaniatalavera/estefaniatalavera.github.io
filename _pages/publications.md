@@ -8,6 +8,14 @@ date: 2021-07-20
 
 You can find video presentations of our work at the following <u><a href="https://www.youtube.com/channel/UC3F55YP8PZWUOxs3vm1_amw">YouTube channel</a></u>.<br>
 
+### 2024 ###
+
+* A. van Engelenhoven, N. Strisciuglio and E. Talavera, "CAST: Clustering Self-Attention using Surrogate Tokens for Efficient Transformers", Pattern Recognition Letters, 2024  <u><a href="https://www.sciencedirect.com/science/article/pii/S0167865524002563"> Paper </a></u>
+* Kooi, Kevin, E. Talavera, L. Freundt, K. Oflazoglu, et. al. "From data to decisions: how AI is revolutionizing clinical prediction models in plastic surgery." Plastic and Reconstructive Surgery, 2024.  <u><a href="https://journals.lww.com/plasreconsurg/abstract/9900/from_data_to_decisions__how_ai_is_revolutionizing.2221.aspx?casa_token=enzBGFIsAycAAAAA:RGUvt3Dp26ZQPjvlggZlHjdn_-K6PaqCrIsEpv15KJ8K2hRfwOS5LYC1bCqrBya7OWb91v386kAVVWU6uL65l5uT3C0k8" target="_blank"> Paper </a></u> 
+* A. M. Joseph, F. U. M. Ullah and E. Talavera, “Body-part Tubelet Transformer for Human-Related Crime Classification”, IEEE International Conference on Advanced Video and Signal Based Surveillance (AVSS), 2024. <u><a href="https://ieeexplore.ieee.org/document/10672568" target="_blank"> Paper </a></u>
+* F. U. M. Ullah, Z. A. Khan, S. W. Baik, E. Talavera, S. Anwar and K. Muhammad, “Dual Deep Learning Network for Abnormal Action Detection”, IEEE International Conference on Advanced Video and Signal Based Surveillance (AVSS), 2024. <u><a href="https://ieeexplore.ieee.org/document/10672568" target="_blank"> Paper </a></u>
+* ML Lima, W De Lima Costa, E Talavera, V Teichrieb, "ST-Gait++: Leveraging spatio-temporal convolutions for gait-based emotion recognition on videos". Proceedings of the IEEE/CVF International Conference on Computer Vision, Workshop LatinX in AI, 2024. <u><a href="https://openaccess.thecvf.com/content/CVPR2024W/LXCV/papers/Lima_ST-Gait_Leveraging_Spatio-temporal_Convolutions_for_Gait-based_Emotion_Recognition_on_Videos_CVPRW_2024_paper.pdf" target="_blank"> Paper </a></u>
+
 
 ### 2023 ###
 
