@@ -4,6 +4,16 @@ title: "News"
 permalink: /news/
 author_profile: true
 ---
+
+### Google PhD funding
+Rosemary Nalwanga has just received a PhD fellowship from Google. Together with Dr. Godliver Owomugisha we will supervise her PhD trajectory on crop image analysis with low-cost computational models.  
+
+### My NWO-VENI project was granted!
+I received national personal funding to develop my research project titled "Understanding social interactions in first-person videos with multimodal learning". <br>
+
+### Erasmus+ KA171 project funded
+As a PI and together with Dr. Godliver Owomugisha, we received 54k€ Erasmus+ 171 funding to foster collaboration between the University of Twente and the Universities of Busitema (Tororo) and Makerere (Kampala), Uganda, during the AYs 2024-2026.
+
 ### I am joining the organisation of the Women in Computer Vision (WiCV) workshop at CVPR 2024.
 I will be co-chair of WiCV. I look forward to supporting this community! <br>
 More information in the <a href="https://estefaniatalavera.github.io/lxcv.explorecsr.github.io">workshop website.</a> <br>
