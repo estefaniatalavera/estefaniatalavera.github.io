@@ -8,6 +8,7 @@ date: 2021-07-20
 
 ### 2024 ###
 
+* A. Matei, E. Talavera, M. Aghaei, "Crime scene classification from skeletal trajectory analysis in surveillance settings", Engineering Applications of Artificial Intelligence, 2024  <u><a href="https://www.sciencedirect.com/science/article/pii/S0952197624019596"> Paper </a></u>
 * A. van Engelenhoven, N. Strisciuglio and E. Talavera, "CAST: Clustering Self-Attention using Surrogate Tokens for Efficient Transformers", Pattern Recognition Letters, 2024  <u><a href="https://www.sciencedirect.com/science/article/pii/S0167865524002563"> Paper </a></u>
 * Kooi, Kevin, E. Talavera, L. Freundt, K. Oflazoglu, et. al. "From data to decisions: how AI is revolutionizing clinical prediction models in plastic surgery." Plastic and Reconstructive Surgery, 2024.  <u><a href="https://journals.lww.com/plasreconsurg/abstract/9900/from_data_to_decisions__how_ai_is_revolutionizing.2221.aspx?casa_token=enzBGFIsAycAAAAA:RGUvt3Dp26ZQPjvlggZlHjdn_-K6PaqCrIsEpv15KJ8K2hRfwOS5LYC1bCqrBya7OWb91v386kAVVWU6uL65l5uT3C0k8" target="_blank"> Paper </a></u> 
 * A. M. Joseph, F. U. M. Ullah and E. Talavera, “Body-part Tubelet Transformer for Human-Related Crime Classification”, IEEE International Conference on Advanced Video and Signal Based Surveillance (AVSS), 2024. <u><a href="https://ieeexplore.ieee.org/document/10672568" target="_blank"> Paper </a></u>
