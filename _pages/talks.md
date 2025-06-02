@@ -7,7 +7,7 @@ date: 2021-07-20
 ---
 
 ### Invited Talk at the <a href="https://dsc.uva.nl/programmes/interdisciplinary-phd-programme/hava-lab/hava-lab.html">HAVA lab</a> in the University of Amsterdam, Netherlands
-December 2024, <br>
+December 2024 <br>
 
 ### Invited Talk at the Applied AI Symposium, organised by Jantina Tammes School of Digital Society, Technology and AI, University of Groningen, Netherlands
 March 2024, Onsite talk, <a href="https://www.linkedin.com/posts/georgeazzopardi_ai-appliedai-technologyevent-ugcPost-7174743431372513280-4t1f?utm_source=share&utm_medium=member_desktop">Info</a> <br>
