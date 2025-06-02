@@ -12,7 +12,7 @@ I am an Assistant Professor at the <a href="https://www.utwente.nl/en/eemcs/dmb/
 
 Prior to joining the University of Twente, I was a lecturer and researcher in the <a href="http://www.cs.rug.nl/infosys/">Information Systems group</a> at the University of Groningen. I received my PhD in Computer Science in February 2020 from the <a href="http://www.ub.edu/cvub/" target="_blank">University of Barcelona</a> and the <a href="https://www.cs.rug.nl/is/Main/People" target="_blank">University of Groningen</a>, under the supervision of <a href="http://www.ub.edu/cvub/petiaradeva/?p=36">Prof. Petia Radeva</a> and <a href="https://www.cs.rug.nl/~petkov/">Prof. Nicolai Petkov</a>. 
 
-# PhD Candidates
+## PhD Candidates
 
 ### Ongoing <br>
 * Akash Ramakrishnan - PhD at University of Twente <br>
@@ -25,7 +25,7 @@ Prior to joining the University of Twente, I was a lecturer and researcher in th
 ### Graduated <br>
 * February 2024 - Willams de Lima Costa - PhD with Veronica Teichrieb and Lucas Silva Figueiredo at University of Pernambruco, Brasil <br>
 
-# Research collaborations
+## Research collaborations
 
 I am interested in project proposals in computer vision, particularly those focused on video analysis and human behavior understanding.
 
