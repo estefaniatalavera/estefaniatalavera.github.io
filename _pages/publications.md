@@ -6,6 +6,8 @@ author_profile: true
 date: 2021-07-20
 ---
 
+# Publications 
+
 ### 2024 ###
 
 * A. Matei, E. Talavera, M. Aghaei, "Crime scene classification from skeletal trajectory analysis in surveillance settings", Engineering Applications of Artificial Intelligence, 2024  <u><a href="https://www.sciencedirect.com/science/article/pii/S0952197624019596"> Paper </a></u>
