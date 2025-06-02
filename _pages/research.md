@@ -22,6 +22,19 @@ You can also connect via <u><a href="https://www.linkedin.com/in/estefaniatalave
 Starting a PhD? <br>
 If you have pre-secured a fellowship/scholarship paying your own salary or intend to apply for one, and your research interests match any of the above topics, then please feel free to send me an email.
 
+# PhD Candidates
+
+### Ongoing <br>
+* Akash Ramakrishnan - PhD at University of Twente <br>
+* Betsy Villa Brochero - PhD at University of Twente <br>
+* Rosemary Nalwanga - PhD with Godliver Owomugisha at University of Twente and Busitema University <br> 
+* Melissa Tijink - PhD with Luuk Spreeuwers and Nicola Strisciuglio at University of Twente <br>
+* Zhiqi Miao - PhD with Jiapan Guo at University of Groningen <br>
+* Federico González Brizzio - PhD with Petia Radeva at University of Barcelona <br>
+
+### Graduated <br>
+* February 2024 - Willams de Lima Costa - PhD with Veronica Teichrieb and Lucas Silva Figueiredo at University of Pernambruco, Brasil <br>
+
 # Datasets 
 
 ### EgoFoodPlaces - Food related scenes in egocentric photo-streams <br>
