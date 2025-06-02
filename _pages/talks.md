@@ -5,14 +5,18 @@ permalink: /talks/
 author_profile: true
 date: 2021-07-20
 ---
+
+### Invited Talk at the <a href="https://dsc.uva.nl/programmes/interdisciplinary-phd-programme/hava-lab/hava-lab.html">HAVA lab</a> in the University of Amsterdam, Netherlands
+December 2024, <br>
+
 ### Invited Talk at the Applied AI Symposium, organised by Jantina Tammes School of Digital Society, Technology and AI, University of Groningen, Netherlands
-March 2023, Onsite talk, <a href="https://www.linkedin.com/posts/georgeazzopardi_ai-appliedai-technologyevent-ugcPost-7174743431372513280-4t1f?utm_source=share&utm_medium=member_desktop">Info</a> <br>
+March 2024, Onsite talk, <a href="https://www.linkedin.com/posts/georgeazzopardi_ai-appliedai-technologyevent-ugcPost-7174743431372513280-4t1f?utm_source=share&utm_medium=member_desktop">Info</a> <br>
 
 ### Invited Talk at the LATAM Undergraduate Research Program 
-March 2023, Online talk, <a href="https://latinresearchprogram.github.io/GoogleExploreCSR/workshop/">Info</a> <br>
+March 2024, Online talk, <a href="https://latinresearchprogram.github.io/GoogleExploreCSR/workshop/">Info</a> <br>
 
 ### Invited Talk at the International Workshop on Intelligent Systems and Computational Intelligence (WISCI), Netherlands 
-March 2023, Onsite talk <br>
+March 2024, Onsite talk <br>
 
 ### Invited Talk at the Tecnologico de Monterrey, Mexico 
 November 2023, Online talk, <a href="https://x.com/Beto_OchoaRuiz/status/1720501392459055530?s=20">Info</a> <br>
