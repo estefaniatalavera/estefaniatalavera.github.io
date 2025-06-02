@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Publications"
+title: "Publications and Datasets"
 permalink: /publications/
 author_profile: true
 date: 2021-07-20
@@ -74,3 +74,24 @@ Streams Segmentation”, International Journal Computer Vision and Image Underst
 
 You can find video presentations of our work at the following <u><a href="https://www.youtube.com/channel/UC3F55YP8PZWUOxs3vm1_amw">YouTube channel</a></u>.<br>
 
+# Datasets 
+
+### EgoFoodPlaces - Food related scenes in egocentric photo-streams <br>
+<u><a href="https://pubmed.ncbi.nlm.nih.gov/31199277/" target="_blank">Paper</a></u>, <u><a href="https://doi.org/10.4121/16592420.v1" target="_blank">Dataset</a></u> <br>
+
+Martinez, Estefania Talavera, Maria Leyva-Vallina, Md Mostafa Kamal Sarker, Domenec Puig, Nicolai Petkov, and Petia Radeva. "Hierarchical approach to classify food scenes in egocentric photo-streams." IEEE journal of biomedical and health informatics 24, 2019. <br>
+
+### EgoRoutine - Routine related human behaviour in egocentric photo-streams <br>
+<u><a href="https://www.sciencedirect.com/science/article/pii/S0031320320301333" target="_blank">Paper</a></u>, <u><a href="https://doi.org/10.4121/16577627.v1" target="_blank">Dataset</a></u> <br>
+
+Talavera, Estefania, Carolin Wuerich, Nicolai Petkov, and Petia Radeva. "Topic modelling for routine discovery from egocentric photo-streams." Pattern Recognition 104, 2020. <br>
+
+### InstaIndoor - Indoor scene recognition in videos gathered from social media  <br>
+<u><a href="https://arxiv.org/abs/2112.12409" target="_blank">Paper,</a></u> <u><a href="https://github.com/andreea-glavan/multimodal-audiovisual-scene-recognition" target="_blank">GitHub with code and dataset</a></u> <br>
+
+A. Glavan, E. Talavera, “InstaIndoor and multi-modal deep learning for indoor scene recognition”, Neural Computing and Applications, 2022. 
+
+### HR-Crime - Human related crime in surveillance fideos<br>
+<u><a href="https://arxiv.org/abs/2108.00246" target="_blank">Paper</a></u>, <u><a href="https://doi.org/10.34894/IRRDJE" target="_blank">Dataset</a></u> <br>
+
+K. Boekhoudt, A. Matei, M. Aghaei, E. Talavera, “HR-Crime: Human-related anomaly detection in surveillance videos”, 19th Conference on Computer Analysis of Images and Patterns (CAIP), 2021. <br>
