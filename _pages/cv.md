@@ -59,10 +59,3 @@ Thesis: MATLAB Applications on Diagnosis Facilities based on Predictive Techniqu
 <h1 style="padding-top: 15px;"><a href="https://people.utwente.nl/e.talaveramartinez?tab=education/" target="_blank">Teaching</a></h1>
 
 <div style="padding-top: 15px;"></div>
-
-
-## Personal interests
-* Traveling and planning new trips
-* Salsa dancing
-* Outdoor activities: diving, running, biking, hiking
-* Reading of history, society, women in society, and science
