@@ -56,7 +56,7 @@ Thesis: MATLAB Applications on Diagnosis Facilities based on Predictive Techniqu
 
 <h1 style="padding-top: 15px;"><a href="https://estefaniatalavera.github.io/talks/" target="_blank">Talks</a></h1>
 
-<h1 style="padding-top: 15px;"><a href="https://estefaniatalavera.github.io/teaching/" target="_blank">Teaching</a></h1>
+<h1 style="padding-top: 15px;"><a href="https://people.utwente.nl/e.talaveramartinez?tab=education/" target="_blank">Teaching</a></h1>
 
 <div style="padding-top: 15px;"></div>
 
