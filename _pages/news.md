@@ -5,12 +5,12 @@ permalink: /news/
 author_profile: true
 ---
 
-### Together with Nicola Strisciuglio and Alex Stergiou, I co-organized the Netherlands Conference on Computer Vision (NCCV) May 2025
-More information in the <a href="https://thenccv.github.io/2025/">event website.</a> <br>
-
 ### I co-organised the Women in Computer Vision (WiCV) workshop at CVPR 2025.
 I will be co-chair of WiCV. I look forward to supporting this community! <br>
 More information in the <a href="https://sites.google.com/view/wicv-cvpr-2025/committee">workshop website.</a> <br>
+
+### Together with Nicola Strisciuglio and Alex Stergiou, I co-organized the Netherlands Conference on Computer Vision (NCCV) May 2025
+More information in the <a href="https://thenccv.github.io/2025/">event website.</a> <br>
 
 ### Google PhD funding
 Rosemary Nalwanga has just received a PhD fellowship from Google. Together with Dr. Godliver Owomugisha we will supervise her PhD trajectory on crop image analysis with low-cost computational models.  
