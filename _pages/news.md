@@ -5,6 +5,13 @@ permalink: /news/
 author_profile: true
 ---
 
+### Together with Nicola Strisciuglio and Alex Stergiou, I co-organized the Netherlands Conference on Computer Vision (NCCV) May 2025
+More information in the <a href="https://thenccv.github.io/2025/">event website.</a> <br>
+
+### I co-organised the Women in Computer Vision (WiCV) workshop at CVPR 2025.
+I will be co-chair of WiCV. I look forward to supporting this community! <br>
+More information in the <a href="https://sites.google.com/view/wicv-cvpr-2025/committee">workshop website.</a> <br>
+
 ### Google PhD funding
 Rosemary Nalwanga has just received a PhD fellowship from Google. Together with Dr. Godliver Owomugisha we will supervise her PhD trajectory on crop image analysis with low-cost computational models.  
 
@@ -16,7 +23,7 @@ As a PI and together with Dr. Godliver Owomugisha, we received 54k€ Erasmus+ 1
 
 ### I am joining the organisation of the Women in Computer Vision (WiCV) workshop at CVPR 2024.
 I will be co-chair of WiCV. I look forward to supporting this community! <br>
-More information in the <a href="https://estefaniatalavera.github.io/lxcv.explorecsr.github.io">workshop website.</a> <br>
+More information in the <a href="https://sites.google.com/view/wicv-cvpr-2024/committee">workshop website.</a> <br>
 
 ### ExploreCSR Google award.
 Together with Nils Murrugarra-llerena (Weber State University) and Gilberto Ochoa (Tecnologico de Monterrey), we received a Google award. Our project “LATAM Undergraduate Research Program” aims to build research skills among Latin-American students in computer vision. <a href="https://estefaniatalavera.github.io/lxcv.explorecsr.github.io">Link to the project website.</a>
