@@ -8,6 +8,13 @@ date: 2021-07-20
 
 # Publications 
 
+### 2025 ###
+
+* F Gonzalez, E Talavera, P Radeva. “DADO: A Depth-Attention Framework for Object Discovery." In 21th International Conference on Computer Analysis of Images and Patterns: CAIP2025. Springer, 2025. <u><a href="https://link.springer.com/chapter/10.1007/978-3-032-05060-1_24" target="_blank"> Paper </a></u>
+* M Tijink, S Levendeev, E Nieuwenhuis, L Spreeuwers, N Strisciuglio, E Talavera. “Vision on the Move: Automated Hazardous Material Plate Detection in Freight Transport" In 21th International Conference on Computer Analysis of Images and Patterns: CAIP2025. Springer, 2025. <u><a href="https://dl.acm.org/doi/10.1007/978-3-032-04968-1_22" target="_blank"> Paper </a></u>
+* PK Kumar, W de Lima Costa, V Teichrieb, E Talavera. "Emotions in LatAm: A new dataset and benchmark for emotion recognition in Latin America". Proceedings of the IEEE/CVF International Conference on Computer Vision, Workshop LatinX in AI, 2025. <u><a href="https://openaccess.thecvf.com/content/CVPR2025W/LXCV/papers/Kumar_Emotions_in_LatAm_A_new_dataset_and_benchmark_for_emotion_CVPRW_2025_paper.pdf" target="_blank"> Paper </a></u>
+* A Matei, E Talavera, M. Aghaei. “Crime scene classification from skeletal trajectory analysis in surveillance settings" Engineering Applications of Artificial Intelligence, 2025. <u><a href="https://www.sciencedirect.com/science/article/pii/S0952197624019596" target="_blank"> Paper </a></u>
+
 ### 2024 ###
 
 * A. Matei, E. Talavera, M. Aghaei, "Crime scene classification from skeletal trajectory analysis in surveillance settings", Engineering Applications of Artificial Intelligence, 2024  <u><a href="https://www.sciencedirect.com/science/article/pii/S0952197624019596"> Paper </a></u>
