@@ -21,6 +21,7 @@ Prior to joining the University of Twente, I was a lecturer and researcher in th
 * Melissa Tijink - PhD with Luuk Spreeuwers and Nicola Strisciuglio at University of Twente <br>
 * Zhiqi Miao - PhD with Jiapan Guo at University of Groningen <br>
 * Federico González Brizzio - PhD with Petia Radeva at University of Barcelona <br>
+* Camila Castaño - PhD with Gilberto Ochoa at Tecnologico de Monterrey <br>
 
 ### Graduated <br>
 * February 2024 - Willams de Lima Costa - PhD with Veronica Teichrieb and Lucas Silva Figueiredo at University of Pernambruco, Brasil <br>
