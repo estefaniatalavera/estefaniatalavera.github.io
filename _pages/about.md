@@ -28,7 +28,7 @@ Prior to joining the University of Twente, I was a lecturer and researcher in th
 
 ## Research collaborations
 
-I am interested in project proposals in computer vision, particularly those focused on video analysis and human behavior understanding.
+I am interested in project proposals in multimodal learning, especially those focused on understanding human behavior and analyzing medical videos.
 
 Wanting to collaborate? <br>
 You can always reach me at e(dot)talaveramartinez(at)utwente(dot)nl <br>
