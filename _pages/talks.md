@@ -5,8 +5,13 @@ permalink: /talks/
 author_profile: true
 date: 2021-07-20
 ---
+### Invited Talk at the Workshop Internacional en Investigacion de Inteligencia Artificial (PhawAI), Arequipa, Peru
+November 2025, <a href="https://www.phawai.org/">Info</a> <br>
 
-### Invited Talk at the <a href="https://dsc.uva.nl/programmes/interdisciplinary-phd-programme/hava-lab/hava-lab.html">HAVA lab</a> in the University of Amsterdam, Netherlands
+### Invited Talk at the Alice & Eve 2025, University of Amsterdam, Netherlands
+October 2025, <a href="https://alice-and-eve.github.io/2025/">Info</a> <br>
+
+### Invited Talk at the HAVA lab in the University of Amsterdam, Netherlands
 December 2024 <br>
 
 ### Invited Talk at the Applied AI Symposium, organised by Jantina Tammes School of Digital Society, Technology and AI, University of Groningen, Netherlands
