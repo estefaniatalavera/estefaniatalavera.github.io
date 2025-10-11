@@ -8,7 +8,7 @@ date: 2021-07-20
 ### Invited Talk at the Workshop Internacional en Investigacion de Inteligencia Artificial (PhawAI), Arequipa, Peru
 November 2025, <a href="https://www.phawai.org/">Info</a> <br>
 
-### Invited Talk at the Alice & Eve 2025, University of Amsterdam, Netherlands
+### Invited Talk at the Alice & Eve 2025, University of Groningen, Netherlands
 October 2025, <a href="https://alice-and-eve.github.io/2025/">Info</a> <br>
 
 ### Invited Talk at the HAVA lab in the University of Amsterdam, Netherlands
