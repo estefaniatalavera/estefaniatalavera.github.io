@@ -11,17 +11,11 @@ date: 2021-07-20
 ### 2026 ###
 
 * K de Vries, X Alameda-Pineda, E Talavera, S Lathuilière. “Reasoning for Social Audio-Visual Question Answering: Where Do We Stand?” Workshop on Human-Centered Multimodal Intelligence in the Wild, ECCV, 2026.
-
 * M Haralovic, Z Miao, A Bont, J Guo, F van Workum, E Talavera. “Beyond Instrument Motion: Recognizing Tissue Tension Toward Surgical Skill Assessment.” Workshop on Medical Video Understanding (MedVidU), ECCV, 2026.
-
 * M Haralovic, A Ramakrishnan, E Talavera. “G3Ego: Gaze-Guided Graphs for Egocentric Action Understanding.” Understanding Multi-Actor Scene Interaction in Context Workshop, ECCV, 2026.
-
 * S Wang, A Stergiou, L Spreeuwers, E Talavera, N Strisciuglu. “Structure-Preserving Low-Rank Adaptation for Weather Synthesis.” Women in Computer Vision Workshop, ECCV, 2026.
-
 * R Nalwanga, S Bunda, L Spreeuwers, G Owomugisha, E Talavera. “Multi-Crop Leaf Disease Recognition: A Unified Benchmark and Cross-Region Study.” European Workshop on Visual Information Processing (EUVIP), 2026.
-
 * B Villa, I Gibson, E Talavera. “PCB-MC: Missing Component Detection and Recognition in Printed Circuit Boards.” European Workshop on Visual Information Processing (EUVIP), 2026.
-
 * B Villa, I Gibson, E Talavera. “Computer Vision in Manufacturing for Missing Object Detection: A Survey.” IEEE Transactions on Industrial Informatics, 2026. <u><a href="https://ieeexplore.ieee.org/abstract/document/11644744" target="_blank"> Paper </a></u>
 * R Nalwanga, L Spreeuwers, E Talavera, G Owomugisha. “Multi-Crop Disease Detection in Computer Vision for Resource-Constrained Farms---A Review.” IEEE Access, 2026. <u><a href="https://ieeexplore.ieee.org/document/11311488/" target="_blank"> Paper </a></u>
 * J Maas, S Franssen, M Petkovic, S Cardona Cano, A. E. Dingemans, A. M. van Oosterzee, M. C. T. Slof-Op't Landt, E Talavera Martinez, C. M. J. M. Vreeswijk, M Simeunovic-Ostojic. “Artificial Intelligence in Eating Disorder Treatment: A Qualitative Analysis of Clinical Opportunities, Barriers, and Ethical Considerations From Multi-Disciplinary Focus Groups.” International Journal of Eating Disorders, 2026, 59(2), 299--310. <u><a href="https://pubmed.ncbi.nlm.nih.gov/41115808/" target="_blank"> Paper </a></u>
