@@ -18,7 +18,7 @@ Before to joining the University of Twente, I was a lecturer and researcher in t
 
 ### Ongoing <br>
 * Akash Ramakrishnan - PhD at University of Twente <br>
-* Betsy Villa Brochero - PhD at University of Twente with Ian Gibson <br>
+* Betsy Villa Brochero - PhD with Ian Gibson at University of Twente <br>
 * Rosemary Nalwanga - PhD with Godliver Owomugisha at University of Twente and Busitema University <br> 
 * Melissa Tijink - PhD with Luuk Spreeuwers and Nicola Strisciuglio at University of Twente <br>
 * Zhiqi Miao - PhD with Jiapan Guo at University of Groningen <br>
