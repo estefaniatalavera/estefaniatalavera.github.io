@@ -5,6 +5,42 @@ permalink: /news/
 author_profile: true
 ---
 
+### I am co-organising a workshop on Multimodal Foundation Models for Healthcare at BMVC 2026.
+I am chairing the workshop “Multimodal Foundation Models for Healthcare: Methods and Applications” at BMVC 2026 in Lancaster, United Kingdom. We look forward to bringing together researchers working at the intersection of multimodal learning and healthcare! <a href="https://sites.google.com/utwente.nl/mfm4health/home">Workshop website.</a><br>
+2026 <br>
+
+### New editorial appointments.
+I joined <em>Pattern Recognition</em> as an Associate Editor. I look forward to supporting the research community through this new role! <br>
+
+### I am co-organising the Video4Real workshop at ECCV 2026.
+I am chairing the workshop “Real World Video Representation Learning (Video4Real)” at ECCV 2026 in Malmö, Sweden. <a href="https://sites.google.com/utwente.nl/video4real/home">Workshop website.</a>   <br>
+2026 <br>
+
+### Three EEMCS research projects received internal funding.
+Three of our projects received UTwente EEMCS Internal Vouchers, with a combined value of €135,000. The projects focus on multimodal learning for human-robot perception, social interaction analysis, and fatigue detection from wearable sensor data. <br>
+2026 <br>
+
+### I was invited to the AI Research Workshop at Universidad Nacional de San Agustín de Arequipa.
+I gave an invited talk at the PHAWAI AI Research Workshop in Arequipa, Peru. <br>
+November 2025 <br>
+Arequipa, Peru <br>
+
+### I was appointed Area Chair for VISAPP 2026 and VISAPP 2027.
+I joined the Area Chair team of the International Conference on Computer Vision Theory and Applications (VISAPP) for its 2026 and 2027 editions. <br>
+
+### Invited-talk series on multimodal and multi-visual cue fusion systems.
+I presented our research on multi-modal and multi-visual cue fusion systems in invited talks at the University of Sheffield, Bayer CVLab, and the Eindhoven Artificial Intelligence Systems Institute (EAISI). <br>
+April 2026 <br>
+
+### I was an invited speaker at the Alice & Eve 2025 workshop.
+I presented our research at the Alice & Eve workshop organised by the University of Groningen. <br>
+October 2025 <br>
+Groningen, Netherlands <br>
+
+### I joined new scientific and research committees.
+I became a member of the Informatics Europe Early Career Researchers Working Group and the Young Academy Twente. I also served as a committee member for the 2025 NWO Open Competition in the Netherlands. <br>
+2025 <br>
+
 ### I co-organised the Women in Computer Vision (WiCV) workshop at CVPR 2025.
 I will be co-chair of WiCV. I look forward to supporting this community! <br>
 More information in the <a href="https://sites.google.com/view/wicv-cvpr-2025/committee">workshop website.</a> <br>
@@ -24,6 +60,16 @@ As a PI and together with Dr. Godliver Owomugisha, we received 54k€ Erasmus+ 1
 ### I am joining the organisation of the Women in Computer Vision (WiCV) workshop at CVPR 2024.
 I will be co-chair of WiCV. I look forward to supporting this community! <br>
 More information in the <a href="https://sites.google.com/view/wicv-cvpr-2024/committee">workshop website.</a> <br>
+
+### I joined the organisation of IEEE CBMS 2024.
+I served as Finance Co-chair of the IEEE International Symposium on Computer-Based Medical Systems (CBMS 2024), held in Guadalajara, Mexico. <br>
+2024 <br>
+Guadalajara, Mexico <br>
+
+### Willams de Lima Costa successfully completed his PhD.
+Congratulations to my PhD student <a href="https://wlcosta.github.io/">Willams de Lima Costa</a> on successfully completing his PhD in Computer Vision at the Federal University of Pernambuco! It was a pleasure to co-supervise his research together with Prof. Veronica Teichrieb and Prof. Lucas Silva Figueiredo. <br>
+February 2024 <br>
+Brazil <br>
 
 ### ExploreCSR Google award.
 Together with Nils Murrugarra-llerena (Weber State University) and Gilberto Ochoa (Tecnologico de Monterrey), we received a Google award. Our project “LATAM Undergraduate Research Program” aims to build research skills among Latin-American students in computer vision. <a href="https://estefaniatalavera.github.io/lxcv.explorecsr.github.io">Link to the project website.</a>
