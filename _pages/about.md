@@ -30,7 +30,7 @@ Before to joining the University of Twente, I was a lecturer and researcher in t
 
 ## Grants
 
-**University of Twente EEMCS Internal Vouchers**<br>Applicant for three projects on *Multimodal Learning for Human–Robot Perception, Social Interaction Analysis, and Fatigue Detection from Wearable Sensor Data*<br>2026, €135K 
+**University of Twente EEMCS Internal Vouchers**<br>Applicant for three projects on *Multimodal Learning for Human–Robot Perception, Social Interaction Analysis, and Fatigue Detection from Wearable Sensor Data*, and in collaboration with Federico Califano, Sebastian Schneider and Khiet Truong, and Annemieke Witteveen, respectively. <br>2026, €135K 
 
 **NWO Veni**<br>Principal Investigator of *Understanding Social Interactions in First-Person Videos with Multimodal Learning*<br>2024–2027, €320K 
 
