@@ -28,6 +28,9 @@ Before to joining the University of Twente, I was a lecturer and researcher in t
 ### Graduated <br>
 * February 2024 - Willams de Lima Costa - PhD with Veronica Teichrieb and Lucas Silva Figueiredo at University of Pernambruco, Brasil <br>
 
+## Grants
+<td class="img"> <img src="img/nwo.png" /> </td>
+
 ## Research collaborations
 
 I am interested in interdisciplinary research collaborations, industry partnerships, and projects involving multimodal data analysis, foundation models, efficient AI, and responsible AI for real-world environments.
