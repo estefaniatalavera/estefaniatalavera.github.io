@@ -30,7 +30,7 @@ Before to joining the University of Twente, I was a lecturer and researcher in t
 
 ## Grants
 
-**University of Twente EEMCS Internal Vouchers**<br>Applicant for three projects on *Multimodal Learning for Human–Robot Perception, Social Interaction Analysis, and Fatigue Detection from Wearable Sensor Data*, and in collaboration with Federico Califano, Sebastian Schneider and Khiet Truong, and Annemieke Witteveen, respectively. <br>2026, €135K 
+**University of Twente EEMCS Internal Vouchers**<br>Applicant for three projects on *Multimodal Learning for Human–Robot Perception, Social Interaction Analysis, and Fatigue Detection from Wearable Sensor Data*, and in collaboration with Dr. Federico Califano, Dr. Sebastian Schneider and Dr. Khiet Truong, and Dr. Annemieke Witteveen, respectively. <br>2026, €135K 
 
 **Radboud University–University of Twente TURBO Seed Grant**<br>Co-applicant with Dr. Frans van Workum for *Surgical Video Analysis for Surgeons’ Skills Assessment*<br>2025, €80K
 
