@@ -16,7 +16,7 @@ April 2026  <br>
 April 2026 <br>
 
 ### Invited Talk at the University of Córdoba, Spain
-February 2024 <br>
+February 2026 <br>
 
 ### Invited Keynote Talk at the Workshop Internacional en Investigacion de Inteligencia Artificial (PhawAI), Arequipa, Peru
 November 2025, <a href="https://www.phawai.org/">Info</a> <br>
