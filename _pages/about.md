@@ -29,7 +29,17 @@ Before to joining the University of Twente, I was a lecturer and researcher in t
 * February 2024 - Willams de Lima Costa - PhD with Veronica Teichrieb and Lucas Silva Figueiredo at University of Pernambruco, Brasil <br>
 
 ## Grants
-<td class="img"> <img src="images/nwo.png" /> </td>
+| Logo | Grant |
+|---|---|
+| [image](/images/utwente.png) | **University of Twente EEMCS Internal Vouchers**<br>Applicant for three projects on *Multimodal Learning for Human–Robot Perception, Social Interaction Analysis, and Fatigue Detection from Wearable Sensor Data*<br>2026, €135K |
+| [image](/images/nwo.png) | **NWO Veni**<br>Principal Investigator of *Understanding Social Interactions in First-Person Videos with Multimodal Learning*<br>2024–2027, €320K |
+| [image](/images/erasmus-plus.png) | **Erasmus+ KA171**<br>Collaborative project with Dr. Godliver Owomugisha, Busitema University<br>2024–2026, €54K |
+| [image](/images/google.png) | **Google PhD Fellowship Funding**<br>Co-supervisor with Dr. Godliver Owomugisha, supporting PhD candidate Rosemary Nalwanga<br>2024, amount not disclosed |
+| [image](/images/erasmus-plus.png) | **Erasmus+ KA171**<br>Collaborative project with Dr. Godliver Owomugisha, Busitema University<br>2022–2025, €78K |
+| [image](/images/europes-rail.png) | **ProRail / Europe’s Rail Joint Undertaking**<br>Work-package lead for *3D Video Analysis for Automatic Train-Surface Monitoring* and PhD co-supervisor<br>2023–Present, €670K |
+| [image](/images/google.png) | **Google ExploreCSR Award**<br>Co-applicant for the *LATAM Undergraduate Research Program*, including a €10K TensorFlow add-on<br>2023, €32K |
+| [image](/images/rug.png) | **University of Groningen Data Science Call**<br>Applicant for *Cross-Modal Learning for Routine Discovery from Egocentric Photo Sequences*, providing 450 hours of data-scientist support<br>2020, €35K |
+
 
 ## Research collaborations
 
