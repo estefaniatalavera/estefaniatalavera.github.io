@@ -42,8 +42,6 @@ Before to joining the University of Twente, I was a lecturer and researcher in t
 
 **Erasmus+ KA171**<br>Collaborative project with Dr. Godliver Owomugisha, Busitema University<br>2022–2025, €78K 
 
-**ProRail / Europe’s Rail Joint Undertaking**<br>Work-package lead for *3D Video Analysis for Automatic Train-Surface Monitoring* and PhD co-supervisor<br>2023–Present, €670K 
-
 **Google ExploreCSR Award**<br>Co-applicant for the *LATAM Undergraduate Research Program*, including a €10K TensorFlow add-on<br>2023, €32K 
 
 **University of Groningen Data Science Call**<br>Applicant for *Cross-Modal Learning for Routine Discovery from Egocentric Photo Sequences*, providing 450 hours of data-scientist support<br>2020, €35K 
