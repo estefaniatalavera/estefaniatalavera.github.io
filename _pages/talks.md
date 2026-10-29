@@ -42,6 +42,9 @@ November 2023, Online talk, <a href="https://x.com/Beto_OchoaRuiz/status/1720501
 ### Tutorial on “Multimodal learning for video analysis” at the International Conference CAIP 
 November 2023, Cyprus, <a href="https://cyprusconferences.org/caip2023/tutorials/">Info</a> <br>
 
+### Keynote speaker at the spring meeting on Anomaly Detection of the Dutch Society of Pattern Recognition and Image Processing 
+November 2023, Netherlands, <a href="https://nvphbv.nl/estefania-talavera-at-fall-meeting-2023-anomaly-detection/">Info</a> <br>
+
 ### Invited Talk at the University of Busitema, Uganda 
 March 2023, Onsite talk <a href="https://twitter.com/BUAIIR/status/1638525687752536064?s=20">Tweet</a> <br>
 
