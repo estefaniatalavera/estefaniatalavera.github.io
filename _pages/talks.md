@@ -18,10 +18,10 @@ April 2026 <br>
 ### Invited Talk at the University of Córdoba, Spain
 February 2026 <br>
 
-### Invited Keynote Talk at the Workshop Internacional en Investigacion de Inteligencia Artificial (PhawAI), Arequipa, Peru
+### Keynote speaker at the Workshop Internacional en Investigacion de Inteligencia Artificial (PhawAI), Arequipa, Peru
 November 2025, <a href="https://www.phawai.org/">Info</a> <br>
 
-### Invited Keynote Talk at the Alice & Eve 2025, University of Groningen, Netherlands
+### Keynote speaker at the Alice & Eve 2025, University of Groningen, Netherlands
 October 2025, <a href="https://alice-and-eve.github.io/2025/">Info</a> <br>
 
 ### Invited Talk at the HAVA lab in the University of Amsterdam, Netherlands
